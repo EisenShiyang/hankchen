@@ -421,7 +421,7 @@ body{
   color: #f1f1f1;
   transition: 0.4s;
 }
-.portfolio .row .col-md-4 .hacker_unity .port_overlay .port_link .btn:hover{
+.portfolio .row .col-md-4 .pick_them_all .port_overlay .port_link .btn:hover{
   background-color: black;
   transition: 0.4s;
 }
