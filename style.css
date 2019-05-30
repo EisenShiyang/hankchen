@@ -491,6 +491,7 @@ body{
 }
 
 .portfolio .row .col-md-4 .rocket_unity .port_overlay{
+  margin-left: 25px;
   transition: .6s ease;
   opacity: 0;
   position: absolute;
